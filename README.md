@@ -1,3 +1,6 @@
+# Atividade de teste - Recuperar APi 
+Recuperar a APi e escrevar um plano de recuperação indicando uma ação mais eficiente para recuperação do sistema.
+
 # Exemplo de Api - Cursos
 Este repositório contém um código desenvolvido em sala de aula na disciplina de back-end.
 
